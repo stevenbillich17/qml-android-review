@@ -1,0 +1,108 @@
+String Searches:
+      0.   Quantum machine learning android malware
+IEE -> 6 results
+
+
+("quantum machine learning" OR "variational quantum circuit" OR "quantum neural network" OR "quantum convolution" OR "quantum classifier" OR "quantum kernel" OR "variational quantum circuit" OR "QSVM" OR "quantum support vector machine" OR "hybrid quantum classical" OR "hybrid quantum classical" OR "quantum kernel") AND ("application  malware" OR "app malware" OR "android malicious" OR "android malware" OR "malware detection" OR "mobile malware" OR "malware classification" OR "APK analysis" OR "android security" OR "Android security" OR "Android threat" OR "android")
+
+
+IEEE -> 6 results
+
+
+
+
+("quantum" OR "QSVM" OR "VQC") AND ("machine learning" OR "deep learning" OR "classification" OR "feature extraction" OR  "feature selection" OR "feature engineering" OR "neural networks" OR "neural network" "nn" OR "support vector machine" OR "support vector machines" OR "svm" OR "model" OR "models") AND ("android malware" OR "android threat" OR "android malicious" OR "android security" OR  "android cybersecurity" OR "android app security" OR "android malware detection" OR "android malware classification" OR "android malicious app" OR "android threat detection" OR "mobile malware" OR "mobile threat" OR "mobile security" OR "mobile cybersecurity" OR  "mobile malware detection" OR "mobile application security")
+
+
+IEE -> 10 results
+
+("quantum" OR "QSVM" OR "VQC")
+AND
+("machine learning" OR "deep learning" OR "classification" OR 
+ "binary classification" OR "multi-class classification" OR
+ "feature extraction" OR "feature selection" OR "feature engineering" OR
+ "neural networks" OR "neural network" OR "nn" OR
+ "support vector machine" OR "support vector machines" OR "svm" OR
+ "classifier" OR "classifiers" OR
+ "predictive model" OR "predictive models" OR
+ "ML model" OR "ML models" OR "model training" OR "model inference" OR
+ "anomaly detection" OR "behavioral detection" OR
+ "model" OR "models")
+AND
+("android malware" OR "android threat" OR "android malicious" OR
+ "android security" OR "android cybersecurity" OR
+ "android malware detection" OR "android malware analysis" OR
+ "android malware classification" OR "android threat detection" OR
+ "android malicious app" OR "android malicious application" OR
+ "malicious android app" OR "malicious android application" OR
+ "android app security" OR "android application security" OR
+ "android detection system" OR "android detection model" OR
+ "android app detection" OR "android application detection" OR
+ "mobile malware" OR "mobile threat" OR "mobile malicious" OR
+ "mobile security" OR "mobile cybersecurity" OR
+ "mobile malware detection" OR "mobile malware analysis" OR
+ "mobile threat detection" OR "mobile malicious app" OR
+ "mobile application security" OR "mobile app security" OR
+ "malicious mobile app" OR "malicious mobile application")
+
+
+10 entries
+
+
+
+("quantum" OR "quantum-based" OR "QSVM" OR "VQC" OR "qml" OR "qnn")
+AND
+("machine learning" OR "deep learning" OR "classification" OR 
+ "binary classification" OR "multi-class classification" OR
+ "feature extraction" OR "feature selection" OR "feature engineering" OR
+ "neural networks" OR "neural network" OR "nn" OR
+ "support vector machine" OR "support vector machines" OR "svm" OR
+ "classifier" OR "classifiers" OR "multi-model"
+ "predictive model" OR "predictive models" OR
+ "ML model" OR "ML models" OR "model training" OR "model inference" OR
+ "anomaly detection" OR "behavioral detection" OR
+ "model" OR "models")
+AND
+("android" OR "android malware" OR "android threat" OR "android malicious" OR
+ "android security" OR "android cybersecurity" OR
+ "android malware detection" OR "android malware analysis" OR
+ "android malware classification" OR "android threat detection" OR
+ "android malicious app" OR "android malicious application" OR
+ "malicious android app" OR "malicious android application" OR
+ "android app security" OR "android application security" OR
+ "android detection system" OR "android detection model" OR
+ "android app detection" OR "android application detection" OR
+ "mobile malware" OR "mobile threat" OR "mobile malicious" OR
+ "mobile security" OR "mobile cybersecurity" OR
+ "mobile malware detection" OR "mobile malware analysis" OR
+ "mobile threat detection" OR "mobile malicious app" OR
+ "mobile application security" OR "mobile app security" OR
+ "malicious mobile app" OR "malicious mobile application")
+
+IEEE 33 entries
+
+
+From all IEE searches there were:
+38 unique journal articles / conference papers
+
+After filtering based on abstract title etc -> 
+
+From those I started verifying maybe papers -> obtained just a few from them.
+After that we read the papers that were marked “include” => 12 papers left
+
+After reading those papers -> see observations and table
+
+
+
+Science Direct: 
+quantum machine learning ("android" OR "mobile" or "APK") -> 21 results (2022-2026)
+quantum AND ("machine learning" OR "convolution" or "convolutional") AND ("android" OR "mobile" or "APK") -> 11 results (2022-2026)
+("quantum" OR "QML)  AND ("neural network" OR "neural network" or "neural networks") AND ("android" OR "mobile" or "APK") -> 19 results (2022-2026)
+"quantum" and "android" and ("malware" or "threat" or "detection" or "threats") / not used
+
+=> Merge them and we obtained 23 unique results
+
+
+Science direct searches were made on 01.02.2026 at 12:14PM. (bucharest time)
+After reading the abstract we included for full screening a number of 9 articles remain for full screening
+Problem accessing one of them -> 8 remained
